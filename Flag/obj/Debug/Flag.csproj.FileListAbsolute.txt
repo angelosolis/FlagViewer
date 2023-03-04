@@ -1,0 +1,11 @@
+C:\Users\solis\source\repos\Flag\Flag\bin\Debug\Flag.exe.config
+C:\Users\solis\source\repos\Flag\Flag\bin\Debug\Flag.exe
+C:\Users\solis\source\repos\Flag\Flag\bin\Debug\Flag.pdb
+C:\Users\solis\source\repos\Flag\Flag\obj\Debug\Flag.csproj.AssemblyReference.cache
+C:\Users\solis\source\repos\Flag\Flag\obj\Debug\Flag.csproj.SuggestedBindingRedirects.cache
+C:\Users\solis\source\repos\Flag\Flag\obj\Debug\Flag.Form1.resources
+C:\Users\solis\source\repos\Flag\Flag\obj\Debug\Flag.Properties.Resources.resources
+C:\Users\solis\source\repos\Flag\Flag\obj\Debug\Flag.csproj.GenerateResource.cache
+C:\Users\solis\source\repos\Flag\Flag\obj\Debug\Flag.csproj.CoreCompileInputs.cache
+C:\Users\solis\source\repos\Flag\Flag\obj\Debug\Flag.exe
+C:\Users\solis\source\repos\Flag\Flag\obj\Debug\Flag.pdb
